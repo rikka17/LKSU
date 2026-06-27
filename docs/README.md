@@ -5,7 +5,6 @@
 <img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
 Material You KernelSU Fork
 
-</div>
 一个 Android 上基于内核的 root 方案。
 
 [![Latest release](https://img.shields.io/github/v/release/tiann/KernelSU?label=Release&logo=github)](https://github.com/tiann/KernelSU/releases/latest)
