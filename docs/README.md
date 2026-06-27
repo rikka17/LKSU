@@ -2,10 +2,9 @@
 
 # 凌波丽 KernelSU
 
-<div align="center">
-  <img src="./ling.jpg" width="96" alt="logo">
-
-
+<p align="center">
+  <img src="ling.jpg" width="96" alt="logo">
+</p>
 Material You KernelSU Fork
 
 </div>
