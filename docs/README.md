@@ -3,7 +3,7 @@
 
 # LKernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://github.com/rikka17/LKSU/blob/85958bb110bd2357ee4bd123cda7eba09ac10301/ling.jpg" style="width: 96px;" alt="logo">
 
 一个 Android 上基于内核系的 root 方案。
 
